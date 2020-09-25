@@ -209,3 +209,29 @@ soma entre eles (desconsiderando o 999)
 
 ex065: Crie um programa que leia vários números inteiros interios, a média entre todos os valores e qual foi o maior
 e o menor valores lidos. O programa deve perguntar se o usuário quer continuar a digitar.
+
+ex066: Crie um programa que leia vários números inteiros. O programa só vai para quando o usuário digitar 999 que é a
+condição de parada e no final mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o
+999)
+
+ex067: Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário
+O programa será interrompido quando o valor for negativo
+
+ex068: Fala um programa que jogue par ou impar com o computador. O jogo será interrompido quando o jogador perder,
+mostrando o total de vitórias consecutivas que ele obteve ao final do jogo
+
+ex069: Crie um programa que leia a idade e o sexo de várias pessoas. A cada pesso cadastrada o programa deverá perguntar
+se o usuário que ou não continuar. No final mostre:
+    A - Quantas pessoas tem mais de 18 anos
+    B - Quantos homens foram cadastrados
+    C - Quantas mulheres tem menos de 20 anos
+
+ex070: Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai
+continuar. No final mostre:
+    A - Qual é o total gasto na compra
+    B - Quantos produtos custam mais de R$1000,00
+    C - Qual o nome do produto mais barato
+
+ex071: Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o
+valor sacado e o programa deverá informar quantas cédulas de cada valor serão entregues.
+    Considere o caixa possui cédulas de R$1, R$10, R$20, R$50
