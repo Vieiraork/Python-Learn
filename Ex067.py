@@ -1,6 +1,7 @@
 multiplicacao = 0
 while True:
     numero = int(input('Digite um número [numero negativo para sair]: '))
+    print('-=-' * 20)
 
     if numero < 0:
         break
@@ -8,6 +9,7 @@ while True:
 
     for tabuada in range(1, 11):
         multiplicacao = tabuada * numero
-        print(f'{tabuada:2} x {numero} = {multiplicacao}')
+        print(f'{numero} x {tabuada:2} = {multiplicacao}')
+    print('-=-' * 20)
 print('\033[1;30m')
 print('Obrigado por testar nosso programa, volte sempre!')
