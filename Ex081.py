@@ -9,8 +9,10 @@ while True:
         break
 
 lista.sort(reverse=True)
+
 print(f'Foram digitados {len(lista)} números.')
 print(f'A lista dos valores em ordem decrescente {lista}')
+
 if 5 in lista:
     print('O número 5 está na lista.')
 else:

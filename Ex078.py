@@ -1,5 +1,5 @@
 valores = []
-maior = manor = 0
+maior = menor = 0
 indice = [0]*2
 
 for num in range(5):
