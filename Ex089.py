@@ -38,6 +38,7 @@ while True:
 
     if aluno == 999:
         break
-
-    print(f'{estudante[aluno][1][:2]}')
-    print('')
+    if len(estudante) - 1 >= aluno:
+        print(f'{estudante[aluno][1][:2]}')
+    else:
+        print('O aluno com o número digitado não existe, tente novamente.')
